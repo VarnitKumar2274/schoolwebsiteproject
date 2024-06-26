@@ -1,0 +1,53 @@
+body
+{
+    text-align: center;
+    background-color:#000;
+    color:white;    
+}
+
+
+
+.line {
+    height: 6px;
+    background-color: #ffffff;
+    width: 70px;
+    margin: 8px auto;
+}
+
+
+
+
+#videos iframe
+{
+    scale: 100%;
+}
+html {
+    scroll-behavior: smooth;
+
+}
+.my_nav_bar {
+     position:sticky;
+      top:0;
+       z-index:99999;
+}
+.movie_head
+{
+font-size: 20px; padding: 6px 22px; border-radius: 10px; margin-bottom: 15px;
+}
+.movie_head i
+{
+float: right;
+}
+.achievement_text span
+{
+color: orange;
+}
+
+.new
+{
+margin-bottom: 20px;
+}
+#contact iframe
+{
+width: 100%;
+}
